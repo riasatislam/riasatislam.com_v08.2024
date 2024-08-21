@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr Riasat Islam
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ree-AH-sut ISS-lahm
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Riasat
+last_name: Islam
 
 # Status emoji
 status:
@@ -20,81 +20,79 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Queen Mary University of London
+    url: https://www.eecs.qmul.ac.uk/profiles/islamriasat.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:riasat.islam@qmul.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/riasat_islam
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/riasatislam
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/riasatislam/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.uk/citations?user=kJMzpOwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1419-8068
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Riasat_Islam2
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human Computer Interaction
+  - Islamic Computing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computing
+    institution: The Open University
+    date_start: 2017-08-01
+    date_end: 2023-10-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Wearable Technologies to Support Lower Limb Rehabilitation and Clinical Practice: user requirements, design and evaluation_. Supervised by [Dr Simon Holland](https://www.open.ac.uk/people/sh2), [Prof. Blaine Price](https://en.wikipedia.org/wiki/Blaine_Price) and [Dr Paul Mulholland](https://www.open.ac.uk/people/pm223). Published in reputable health tech journals and generated income through intellectual property transfer and consultancy.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://oro.open.ac.uk/93489/1/MASTER%20DOCUMENT_RSI_THESIS_10102023.pdf'
+  - area: MSc ICT Innovation (Major in Human Computer Interaction and Design, Minor in Entrepreneurship and Innovation)
+    institution: KTH Royal Institute of Technology and University College London
+    date_start: 2013-08-26
+    date_end: 2015-11-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: Pass
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Affective Interaction
+      - Interaction Programming
+      - Theory and Methodology of Science in Human Computer Interaction
+  - area: BSc Engg in Electrical and Electronic Engineering
+    institution: Islamic University of Technology
+    date_start: 2009-01-04
+    date_end: 2012-10-16
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.76/4.0, First Class Honours
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Digital Signal Processing
+      - Discrete Mathematics and Numerical Analysis
+      - Random Signals and Processes
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Lecturer
+    company_name: Queen Mary University of London
+    company_url: 'https://qmul.ac.uk'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-19
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teaching Intro to AI, Reasoning and Agents, Cloud Computing and Software Engineering
   - position: Backend Software Engineer
     company_name: X
     company_url: ''

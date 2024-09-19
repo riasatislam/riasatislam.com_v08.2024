@@ -3,15 +3,15 @@
 title: Dr Riasat Islam
 
 # Name pronunciation (optional)
-name_pronunciation: ree-AH-sut ISS-lahm
+#name_pronunciation: ree-ah-sut iss-lahm
 
 # Full name (for SEO)
 first_name: Riasat
 last_name: Islam
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://oro.open.ac.uk/93489/1/MASTER%20DOCUMENT_RSI_THESIS_10102023.pdf'
-  - area: MSc ICT Innovation (Major in Human Computer Interaction and Design, Minor in Entrepreneurship and Innovation)
-    institution: KTH Royal Institute of Technology and University College London
+  - area: MSc ICT Innovation
+    institution: KTH Royal Institute of Technology & University College London
     date_start: 2013-08-26
     date_end: 2015-11-01
     summary: |

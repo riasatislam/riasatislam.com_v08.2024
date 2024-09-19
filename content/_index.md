@@ -35,7 +35,9 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        Dr Riasat Islam's research interests focus on the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI). He is particularly passionate about developing user-centred AI systems with applications in healthcare and well-being, aiming to create solutions that enhance the user experience while supporting physical and mental health. Additionally, Dr Islam is interested in exploring the use of user-centred AI in Islamic computing, with a focus on creating interconnected learning platforms that foster spiritual growth and well-being. 
+        Dr Riasat Islam's research interests focus on the intersection of Human-Computer Interaction (HCI) and Artificial Intelligence (AI). He is particularly passionate about developing user-centred AI systems with applications in healthcare and well-being, aiming to create solutions that enhance the user experience while supporting physical and mental health. 
+        
+        Additionally, Dr Islam is interested in exploring the use of user-centred AI in Islamic computing, with a focus on creating interconnected learning platforms that foster spiritual growth and well-being. 
         
         If you would like to work with me, please get in touch.
     design:

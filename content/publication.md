@@ -7,24 +7,11 @@ design:
   # Section spacing
   spacing: '5rem'
 
-# Page sections
-sections:
-  - block: collection
-    id: publication
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
   - block: collection
     content:
       title: Recent Publications
       text: ""
+      count: 0
       filters:
         folders:
           - publication

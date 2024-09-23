@@ -30,7 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-- block: markdown
+
+  - block: markdown
     content:
       title: 'Research'
       subtitle: ''
@@ -40,7 +41,8 @@ sections:
         If you would like to work with Riasat and/or GTAF.org, please get in touch.
     design:
       columns: '1'
-- block: collection
+
+  - block: collection
     id: blog
     content:
       title: Blog Posts
@@ -48,32 +50,21 @@ sections:
       text: ''
       page_type: blog
       count: 5
-  # Page type to display. E.g. post, talk, publication...
-      
-     # Choose how many pages you would like to display (0 = all pages)
-      
-     # Filter on criteria
-    filters:
-      author: ""
-      category: ""
-      tag: ""
-      exclude_featured: false
-      exclude_future: false
-      exclude_past: false
-      publication_type: ""
-    # Choose how many pages you would like to offset by
-    offset: 0
-     # Page order: descending (desc) or ascending (asc) date.
-    order: desc
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      offset: 0
+      order: desc
     design: 
       view: date-title-summary
       spacing:
         padding: [0, 0, 0, 0]
-     
-      
-     # Reduce spacing
-      
-
+    
 #  - block: collection
 #    id: papers
 #    content:

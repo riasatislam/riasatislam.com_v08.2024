@@ -9,7 +9,7 @@ tags: ["networking", "job search", "referrals", "GTAF"]
 
 ## The Importance of Networking, Connections, and Referrals in Hiring
 
-In my opinion, after the alignment of values (you can read more about that in my previous post [https://riasatislam.com/blog/values-alignment/]), the second most important factor in hiring or securing a job is the strength of connections, networking, and referrals. 
+In my opinion, after the alignment of values (you can read more about that in my [previous post] (https://riasatislam.com/blog/values-alignment/)), the second most important factor in hiring or securing a job is the strength of connections, networking, and referrals. 
 
 At **GTAF.org**, we highly value recommendations from people within our trusted network. In fact, there are instances when we don’t publicly advertise job openings. Instead, we hire through internal recommendations from trusted, competent individuals in our network. This approach is not exclusive to us; many job openings globally go unadvertised and are filled through referrals.
 
